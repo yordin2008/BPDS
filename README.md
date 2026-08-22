@@ -1,6 +1,6 @@
-Proyecto de Buenas Prácticas de Desarrollo (BPDS) 
-by: Bladimir Mieles
-4th Level
+# Proyecto de Buenas Prácticas de Desarrollo (BPDS) 
+by: Bladimir Mieles <br>
+4th Level <br>
 Universidad de la Costa (CUC)
 
 # Descripción
