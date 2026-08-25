@@ -8,3 +8,6 @@ Proyecto CRUD desarrollado para gestionar información de manera sencilla y efic
 
 # Description
 A CRUD project developed to manage information simply and efficiently, enabling the **creation, retrieval, updating, and deletion of records**. The system implements basic data management operations and serves as a practical example of developing an application with CRUD functionality.
+
+gracias por tu atención.
+Thanks for your atenttion.
